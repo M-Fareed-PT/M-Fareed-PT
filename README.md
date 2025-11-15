@@ -77,5 +77,5 @@ To obtain a position as a Penetration Tester or Red Team Operator, applying my s
 ---
 
 💬 *“Attack to understand. Defend to strengthen.”*  
-📫 Reach me at **faredm685@gmail.com** | 🧑‍💻 [LinkedIn](www.linkedin.com/in/mohamad-fared-20733121a)
+📫 Reach me at **faredm685@gmail.com** |📞6010-284-7825| 🧑‍💻 [LinkedIn](www.linkedin.com/in/mohamad-fared-20733121a)
 
