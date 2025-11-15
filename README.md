@@ -1,5 +1,5 @@
 # Hello, I'm Mohamad Fared
-<a href="www.linkedin.com/in/mohamad-fared-20733121a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[www.linkedin.com/in/mohamad-fared-20733121a](https://www.linkedin.com/in/mohamad-fared-20733121a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Penetration Tester | Red Teaming | Offensive Security
 Automating recon, exploitation, and post-exploitation workflows with Python, PowerShell, C/C++ and Go.
