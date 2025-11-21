@@ -1,9 +1,13 @@
 # Hello, I'm Mohamad Fared
 <a href="[www.linkedin.com/in/mohamad-fared-20733121a](https://www.linkedin.com/in/mohamad-fared-20733121a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Penetration Tester | Red Teaming | Offensive Security
-Automating recon, exploitation, and post-exploitation workflows with Python, PowerShell, C/C++ and Go.
-Active: lab demos, CTF writeups, and responsible disclosure reports.
+Junior Penetration Tester | Offensive Security & Red Teaming  
+Building security tools in Python, Bash, PowerShell, C/C++, Go & Rust  
+Active on TryHackMe & HackTheBox (THM & HTB)
+
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-2D3748?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/faredm685)
+
+[![HackTheBox](https://img.shields.io/badge/-HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/2610688)
 
 ## Objective
 To obtain a position as a Penetration Tester or Red Team Operator, applying my skills in network exploitation, web application security, and scripting to identify vulnerabilities and strengthen organizational defenses.
